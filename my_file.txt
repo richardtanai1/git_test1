@@ -1,3 +1,5 @@
 First Commit Text
 Second Commit Text
 Third Commit Text
+
+Merge This
